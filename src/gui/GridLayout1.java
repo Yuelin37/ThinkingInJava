@@ -1,3 +1,4 @@
+package gui;
 //: gui/GridLayout1.java
 // Demonstrates GridLayout.
 import javax.swing.*;

@@ -1,3 +1,4 @@
+package holding;
 //: holding/StackCollision.java
 import net.mindview.util.*;
 

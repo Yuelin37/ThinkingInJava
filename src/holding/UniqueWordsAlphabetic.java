@@ -1,3 +1,4 @@
+package holding;
 //: holding/UniqueWordsAlphabetic.java
 // Producing an alphabetic listing.
 import java.util.*;

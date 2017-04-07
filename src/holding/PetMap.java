@@ -1,3 +1,4 @@
+package holding;
 //: holding/PetMap.java
 import typeinfo.pets.*;
 import java.util.*;
