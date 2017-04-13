@@ -1,3 +1,4 @@
+package reusing;
 //: reusing/FinalData.java
 // The effect of final on fields.
 import java.util.*;

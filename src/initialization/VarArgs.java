@@ -2,7 +2,11 @@ package initialization;
 //: initialization/VarArgs.java
 // Using array syntax to create variable argument lists.
 
-class A {}
+class A {
+//	public String toString(){
+//		return "I'm A.";
+//	}
+}
 
 public class VarArgs {
   static void printArray(Object[] args) {

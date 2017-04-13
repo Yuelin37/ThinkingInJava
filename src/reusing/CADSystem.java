@@ -1,6 +1,7 @@
+package reusing;
 //: reusing/CADSystem.java
 // Ensuring proper cleanup.
-package reusing;
+
 import static net.mindview.util.Print.*;
 
 class Shape {

@@ -1,4 +1,4 @@
-package object;
+package reusing;
 //: object/ShowProperties.java
 
 public class ShowProperties {
