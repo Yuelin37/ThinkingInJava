@@ -17,4 +17,5 @@ public class Wind extends Instrument {
     Wind flute = new Wind();
     Instrument.tune(flute); // Upcasting
   }
+
 } ///:~
