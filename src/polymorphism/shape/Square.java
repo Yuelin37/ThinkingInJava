@@ -13,4 +13,8 @@ public class Square extends Shape {
 	public void erase() {
 		print("Square.erase()");
 	}
+	@Override
+	public void fill(){
+		print("Square.fill()");
+	}
 } /// :~

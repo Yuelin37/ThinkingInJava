@@ -27,7 +27,9 @@ public class TerminationCondition {
     // Drop the reference, forget to clean up:
     new Book(true);
     // Force garbage collection & finalization:
+    System.out.println("Calling System.gc()...");
     System.gc();
+    System.out.println("Systom.gc() called.");
   }
 } /* Output:
 Error: checked out

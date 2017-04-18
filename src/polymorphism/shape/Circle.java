@@ -12,4 +12,7 @@ public class Circle extends Shape {
 	public void erase() {
 		print("Circle.erase()");
 	}
+	public void fill(){
+		print("Circle.fill()");
+	}
 } /// :~

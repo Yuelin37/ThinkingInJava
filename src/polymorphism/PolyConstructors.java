@@ -24,9 +24,21 @@ class RoundGlyph extends Glyph {
   }
 }	
 
+class RectangularGlyph extends Glyph {
+	  private int height = 8;
+	  RectangularGlyph(int h) {
+		  height = h;
+	    print("RectangularGlyph.RectangularGlyph(), height = " + height);
+	  }
+	  void draw() {
+	    print("RectangularGlyph.draw(), height = " + height);
+	  }
+	}
+
 public class PolyConstructors {
   public static void main(String[] args) {
     new RoundGlyph(5);
+    new RectangularGlyph(10);
   }
 } /* Output:
 Glyph() before draw()

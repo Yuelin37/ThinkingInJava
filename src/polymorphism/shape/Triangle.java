@@ -13,4 +13,9 @@ public class Triangle extends Shape {
 	public void erase() {
 		print("Triangle.erase()");
 	}
+	
+	@Override
+	public void fill(){
+		print("Triangle.fill()");
+	}
 } /// :~
