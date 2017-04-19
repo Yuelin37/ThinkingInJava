@@ -13,7 +13,7 @@ interface Instrument {
 }
 
 class Wind implements Instrument {
-  public void play(Note n) {
+	public void play(Note n) {
     print(this + ".play() " + n);
   }
   public String toString() { return "Wind"; }
@@ -65,6 +65,7 @@ public class Music5 {
       new Woodwind()
     };
     tuneAll(orchestra);
+    System.out.println(Instrument.VALUE);
   }
 } /* Output:
 Wind.play() MIDDLE_C
