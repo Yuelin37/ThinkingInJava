@@ -1,3 +1,5 @@
+package strings;
+
 //: strings/SimpleRead.java
 import java.io.*;
 

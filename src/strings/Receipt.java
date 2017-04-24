@@ -1,3 +1,5 @@
+package strings;
+
 //: strings/Receipt.java
 import java.util.*;
 

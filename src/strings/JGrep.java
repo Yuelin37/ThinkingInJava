@@ -1,3 +1,5 @@
+package strings;
+
 //: strings/JGrep.java
 // A very simple version of the "grep" program.
 // {Args: JGrep.java "\\b[Ssct]\\w+"}

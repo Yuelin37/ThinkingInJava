@@ -1,3 +1,5 @@
+package strings;
+
 //: strings/BetterRead.java
 import java.util.*;
 

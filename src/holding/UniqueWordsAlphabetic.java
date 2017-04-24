@@ -9,7 +9,7 @@ public class UniqueWordsAlphabetic {
     Set<String> words =
       new TreeSet<String>(String.CASE_INSENSITIVE_ORDER);
     words.addAll(
-      new TextFile("SetOperations.java", "\\W+"));
+      new TextFile("src/holding/SetOperations.java", "\\W+"));
     System.out.println(words);
   }
 } /* Output:

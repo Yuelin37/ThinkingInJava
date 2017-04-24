@@ -1,3 +1,5 @@
+package strings;
+
 //: strings/TestRegularExpression.java
 // Allows you to easily try out regular expressions.
 // {Args: abcabcabcdefabc "abc+" "(abc)+" "(abc){2,}" }

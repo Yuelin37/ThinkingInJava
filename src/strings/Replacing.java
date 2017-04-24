@@ -1,3 +1,5 @@
+package strings;
+
 //: strings/Replacing.java
 import static net.mindview.util.Print.*;
 

@@ -1,3 +1,5 @@
+package strings;
+
 //: strings/Finding.java
 import java.util.regex.*;
 import static net.mindview.util.Print.*;

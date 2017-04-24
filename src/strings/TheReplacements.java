@@ -1,3 +1,5 @@
+package strings;
+
 //: strings/TheReplacements.java
 import java.util.regex.*;
 import net.mindview.util.*;

@@ -1,3 +1,5 @@
+package strings;
+
 //: strings/UsingStringBuilder.java
 import java.util.*;
 

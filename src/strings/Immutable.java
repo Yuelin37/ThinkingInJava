@@ -1,3 +1,5 @@
+package strings;
+
 //: strings/Immutable.java
 import static net.mindview.util.Print.*;
 

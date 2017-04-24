@@ -1,3 +1,5 @@
+package strings;
+
 //: strings/Splitting.java
 import java.util.*;
 

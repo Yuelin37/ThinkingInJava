@@ -1,13 +1,3 @@
-/JavaLint.py
-/OutputGenerator.py
-/OutputVerifier.py
-/RedundantImportDetector.py
-/access/
-/annotations/
-/arrays/
-/bangbean/
-/build.xml
-/chapterOrder.xml
 /concurrency/
 /containers/
 /control/
