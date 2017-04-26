@@ -1,4 +1,5 @@
 package generics;
+
 //: generics/TupleTest.java
 import net.mindview.util.*;
 

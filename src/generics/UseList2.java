@@ -1,4 +1,5 @@
 package generics;
+
 //: generics/UseList2.java
 import java.util.*;
 

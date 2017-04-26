@@ -1,4 +1,5 @@
 package generics;
+
 //: generics/ThrowGenericException.java
 import java.util.*;
 

@@ -1,5 +1,5 @@
 package generics;
-//: generics/BasicBounds.java
+
 
 interface HasColor { java.awt.Color getColor(); }
 

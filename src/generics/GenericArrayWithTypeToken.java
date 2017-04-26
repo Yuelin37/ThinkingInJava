@@ -1,4 +1,5 @@
 package generics;
+
 //: generics/GenericArrayWithTypeToken.java
 import java.lang.reflect.*;
 

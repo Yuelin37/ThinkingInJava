@@ -1,4 +1,5 @@
 package generics;
+
 //: generics/LostInformation.java
 import java.util.*;
 

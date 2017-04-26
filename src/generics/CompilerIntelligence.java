@@ -1,4 +1,5 @@
 package generics;
+
 //: generics/CompilerIntelligence.java
 import java.util.*;
 

@@ -1,5 +1,5 @@
 package generics;
-//: generics/CaptureConversion.java
+
 
 public class CaptureConversion {
   static <T> void f1(Holder<T> holder) {

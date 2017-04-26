@@ -1,5 +1,5 @@
 package generics;
-//: generics/Holder2.java
+
 
 public class Holder2 {
   private Object a;

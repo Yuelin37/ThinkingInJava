@@ -1,5 +1,5 @@
 package generics;
-//: generics/SelfBounding.java
+
 
 class SelfBounded<T extends SelfBounded<T>> {
   T element;

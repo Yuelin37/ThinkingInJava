@@ -1,5 +1,5 @@
 package generics;
-//: generics/GenericMethods.java
+
 
 public class GenericMethods {
   public <T> void f(T x) {

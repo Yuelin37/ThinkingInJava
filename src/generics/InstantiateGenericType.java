@@ -1,4 +1,5 @@
 package generics;
+
 //: generics/InstantiateGenericType.java
 import static net.mindview.util.Print.*;
 

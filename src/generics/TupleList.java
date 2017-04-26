@@ -1,4 +1,5 @@
 package generics;
+
 //: generics/TupleList.java
 // Combining generic types to make complex generic types.
 import java.util.*;

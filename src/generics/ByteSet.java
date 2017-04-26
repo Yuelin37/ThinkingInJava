@@ -1,4 +1,5 @@
 package generics;
+
 //: generics/ByteSet.java
 import java.util.*;
 

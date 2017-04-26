@@ -1,5 +1,5 @@
 package generics;
-//: generics/ArrayOfGenericReference.java
+
 
 class Generic<T> {}
 

@@ -1,5 +1,5 @@
 package generics;
-//: generics/PlainGenericInheritance.java
+
 
 class GenericSetter<T> { // Not self-bounded
   void set(T arg){

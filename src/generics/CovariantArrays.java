@@ -1,5 +1,5 @@
 package generics;
-//: generics/CovariantArrays.java
+
 
 class Fruit {}
 class Apple extends Fruit {}
